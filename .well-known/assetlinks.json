@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.murwel1337.kinguin",
+    "sha256_cert_fingerprints": ["37:31:8D:50:EB:4C:7D:32:92:14:50:1D:26:5D:36:CB:3B:B4:46:7C:60:D7:CF:1F:77:44:CF:7E:4E:64:51:35"]
+  }
+}]
